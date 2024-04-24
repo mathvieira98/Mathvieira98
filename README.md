@@ -22,6 +22,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathvieiraa/) mathues99@hotmail.com 
 </div>
 
+<br>
 
 ### <h2 align="center">Linguagens e FrameWorks 🗣️💬</h2>
 
