@@ -11,7 +11,7 @@
 > Hoje estou em busca da minha primeira oportunidade dentro da área, sou uma pessoa pró-ativa, criativa, tenho uma comunicação clara e espírito de liderança além de adorar trabalhar em equipe, sempre busco soluções inteligentes que contribuam de forma positiva e impactante para o sucesso da empresa.
 
 🎓 2º Período - Analise e Desenvolvimento de Sistemas / Estácio.</br>
-💻 Meu propósito é resolver problemas, criar soluções e impactar vidas 🔥</br>
+🖥️ Meu propósito é resolver problemas, criar soluções e impactar vidas 🔥</br>
 📚 Atualmente, estou estudando React Native / Swift e sigo aprimorando minhas habilidades.
 </br>
 📫 Como me contatar:
@@ -22,7 +22,7 @@
 
 <br>
 
-### <h2 align="center">Linguagens e FrameWorks 🗣️💬</h2>
+### <h2 align="center">Languages & FrameWorks 💻🗣️💬</h2>
 
 <div align="center">
   <img aling="" alt="Html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -37,7 +37,7 @@
 
 <br><br>
 
-### <h2 align="center"> Stats 💻 </h2>
+### <h2 align="center"> Stats 💻📊 </h2>
 
 <img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Mathvieira98&_icons=true&theme=cobalt"/>
 <img alt="top langs" align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathvieira98&layout=compact&_progress=true_icons=true&theme=cobalt"/>
