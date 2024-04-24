@@ -24,6 +24,8 @@
 
 ### <h2 align="center">Languages & FrameWorks 💻🗣️💬</h2>
 
+<br>
+
 <div align="center">
   <img aling="" alt="Html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img aling="" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -35,7 +37,7 @@
   <img aling="" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
 </div>
 
-<br><br>
+<br>
 
 ### <h2 align="center"> Stats 💻📊 </h2>
 
