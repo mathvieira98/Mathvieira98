@@ -4,58 +4,73 @@
   </a>
 </h1>
 
-<p> Meu nome é Mateus, sou um desenvolvedor mobile, com muita vontade de aprender e compartilhar conhecimento !
+> Me chamo Matheus, tenho 25 anos moro em Curitiba-PR. Durante 3 anos atuei na área de contabilidade, no entanto no final do ano 2022 tomei a decisão ousada de trancar a faculdade de contabilidade e fazer uma transição de carreira para a área da tecnologia.
 
-🎓 Curso graduação em Analise e Desenvolvimento de Sistemas </br>
-💻 Eu amo ver o que esta na minha mente se tornar realidade em um app </br>
-📚 Atualmente, estou estudando React Native, Swift aprimorando minhas habilidades 
+> Meu objetivo profissional é me tornar um desenvolvedor full-stack em desenvolvimento mobile. Ao longo dessa jornada de estudos intensos desenvolvi projetos em Front-end, React Native, Swift e Java.
+
+> Hoje estou em busca da minha primeira oportunidade dentro da área, sou uma pessoa pro-ativa, criativa, comunicação clara, tennho espírito de liderança e adoro trabalhar em equipe, sempre busco soluções inteligentes que contribuam de forma positiva e impactante para o sucesso da empresa.
+
+🎓 2º Período - Analise e Desenvolvimento de Sistemas / Estácio.</br>
+💻 Meu propósito é resolver problemas, criar soluções e impactar vidas 🔥</br>
+📚 Atualmente, estou estudando React Native / Swift e sigo aprimorando minhas habilidades.
 </br>
-📫 Como me contatar: mathues99@hotmail.com
-</p>
+
+<div>
+ 📫 Como me contatar:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-vieira-023177202/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathvieiraa/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathvieiraa/) mathues99@hotmail.com 
+</div>
 
 
 
-### <h2>Linguagens e FrameWorks</h2>
+
+
+### <h2 align="center">Linguagens e FrameWorks 🗣️💬</h2>
 
 <div style="display: inline_block"></br>
-    <img aling="" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img aling="" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img aling="" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img aling="" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img aling="" alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img aling="" alt="Html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img aling="" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img aling="" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img aling="" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    
+  
+  <img aling="" alt="Adroid" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img aling="" alt="React-Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+  <img aling="" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img aling="" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+
 </div>
 
-### <h2 align="center"> ⚡ Stats ⚡ </h2>
+### <h2 align="center">Stats 💻</h2>
 
-  <div align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushcp&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
+<div align="center">
+
+  <a>![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=mathvieira&show_icons=true&theme=cobalt)
+  </a>
 </div>
 
-<br>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushcp&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"></a>
+</div>
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=mathvieira&show_icons=true&theme=cobalt)
+### <h2 align="center"> Repositórios 👨‍💻☁️</h2>
 
-### <h2 align="center"> Repositorios 👨‍💻 </h2>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/mateushcp/Pokedex-iOS-project" title="Pokedex iOS Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mateushcp&repo=Pokedex-iOS-project&theme=react&border_color=61dafb&border_radius=10"></a>
-
-  <a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="POO-avancada"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mateushcp&repo=POO-avancada&theme=react&border_color=61dafb&border_radius=10"></a>
+<div  align="center" width="100%">
+  <a  href="https://github.com/mateushcp/Pokedex-iOS-project" title="Pokedex iOS Project">
+  <img  height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mateushcp&repo=Pokedex-iOS-project&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/mateushcp/
-Algoritmos-em-C" title="Algoritmos-em-C"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mateushcp&repo=Algoritmos-em-C&theme=react&border_color=61dafb&border_radius=10"></a>
-
-<a align="right" href="https://github.com/mateushcp/Refatoracao-de-codigo" title="Refatoracao de codigo"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mateushcp&repo=Refatoracao-de-codigo&theme=react&border_color=61dafb&border_radius=10"></a>
+<div align="center" width="100%">
+<a href="https://github.com/mateushcp/
+Algoritmos-em-C" title="Algoritmos-em-C"><img  height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mateushcp&repo=Algoritmos-em-C&theme=react&border_color=61dafb&border_radius=10"></a>
+<a href="https://github.com/mateushcp/Refatoracao-de-codigo" title="Refatoracao de codigo"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mateushcp&repo=Refatoracao-de-codigo&theme=react&border_color=61dafb&border_radius=10"></a>
+<a href="https://github.com/zumrudu-anka/DataStructures" title="POO-avancada"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mateushcp&repo=POO-avancada&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
-<h4 align="center">
-  <a href="https://github.com/mateushcp?tab=repositories" title="Show Repositories"></a>
-</h4>
+<h3>
+  <a href="https://github.com/mathvieira98?tab=repositories" title="Show Repositories"></a>
+</h3>
