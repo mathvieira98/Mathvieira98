@@ -61,16 +61,26 @@
 ### <h2 align="center"> Repositórios 👨‍💻☁️</h2>
 
 <div  align="center" width="100%">
-  <a  href="https://github.com/mateushcp/Pokedex-iOS-project" title="Pokedex iOS Project">
-  <img  height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mateushcp&repo=Pokedex-iOS-project&theme=react&border_color=61dafb&border_radius=10"></a>
+<a href="https://github.com/mateushcp/Pokedex-iOS-project" title="Front-End">
+<img  height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mateushcp&repo=Pokedex-iOS-project&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
+<br>
 
 <div align="center" width="100%">
-<a href="https://github.com/mateushcp/
-Algoritmos-em-C" title="Algoritmos-em-C"><img  height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mateushcp&repo=Algoritmos-em-C&theme=react&border_color=61dafb&border_radius=10"></a>
-<a href="https://github.com/mateushcp/Refatoracao-de-codigo" title="Refatoracao de codigo"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mateushcp&repo=Refatoracao-de-codigo&theme=react&border_color=61dafb&border_radius=10"></a>
-<a href="https://github.com/zumrudu-anka/DataStructures" title="POO-avancada"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mateushcp&repo=POO-avancada&theme=react&border_color=61dafb&border_radius=10"></a>
+
+<a href="https://github.com/mateushcp/Algoritmos-em-C" title="React Native">
+<img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mateushcp&repo=Algoritmos-em-C&theme=react&border_color=61dafb&border_radius=10">
+</a>
+
+<br>
+
+<a href="https://github.com/mateushcp/Refatoracao-de-codigo" title="Swift"> <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mateushcp&repo=Refatoracao-de-codigo&theme=react&border_color=61dafb&border_radius=10">
+</a>
+
+<a href="https://github.com/zumrudu-anka/DataStructures" title="Java"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mateushcp&repo=POO-avancada&theme=react&border_color=61dafb&border_radius=10">
+</a>
+
 </div>
 
 <h3>
