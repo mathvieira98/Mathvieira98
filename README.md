@@ -46,12 +46,12 @@
 ### <h2 align="center"> Stats 💻 </h2>
 
 
-<img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=mathvieira&show_icons=true&theme=cobalt"/>
-<img alt="top langs" align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true_icons=true&theme=cobalt"/>
+<img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Mathvieira98&_icons=true&theme=cobalt"/>
+
+<img alt="top langs" align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathvieira98&layout=compact&_progress=true_icons=true&theme=cobalt"/>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ### <h2 align="center"> Repositórios 👨‍💻☁️</h2>
 
