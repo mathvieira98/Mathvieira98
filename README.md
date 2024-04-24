@@ -65,8 +65,6 @@
 <img  height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mateushcp&repo=Pokedex-iOS-project&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
-<br>
-
 <div align="center" width="100%">
 
 <a href="https://github.com/mateushcp/Algoritmos-em-C" title="React Native">
