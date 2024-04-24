@@ -41,25 +41,23 @@
 
 </div>
 
-<br>
+<br><br>
 
 ### <h2 align="center">Stats 💻</h2>
 
-<div align="center">
+<div>
 
-  <a>![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=mathvieira&show_icons=true&theme=cobalt)
-  </a>
+  <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mathvieira&show_icons=true&theme=cobalt"/>
+
+  <img alt="my langs" align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+
 </div>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-</div>
-
-<br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ### <h2 align="center"> Repositórios 👨‍💻☁️</h2>
+
+<br>
 
 <div  align="center" width="100%">
 <a href="https://github.com/mateushcp/Pokedex-iOS-project" title="Front-End">
