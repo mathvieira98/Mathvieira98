@@ -14,13 +14,11 @@
 💻 Meu propósito é resolver problemas, criar soluções e impactar vidas 🔥</br>
 📚 Atualmente, estou estudando React Native / Swift e sigo aprimorando minhas habilidades.
 </br>
-
-<div>
- 📫 Como me contatar:
+📫 Como me contatar:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-vieira-023177202/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathvieiraa/) mathues99@hotmail.com 
-</div>
+
 
 <br>
 
@@ -38,7 +36,6 @@
 
   <img aling="" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
   <img aling="" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
-
 </div>
 
 <br><br>
@@ -47,7 +44,6 @@
 
 
 <img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Mathvieira98&_icons=true&theme=cobalt"/>
-
 <img alt="top langs" align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathvieira98&layout=compact&_progress=true_icons=true&theme=cobalt"/>
 
 
