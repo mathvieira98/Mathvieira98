@@ -24,16 +24,13 @@
 
 ### <h2 align="center">Linguagens e FrameWorks 🗣️💬</h2>
 
-<div style="display: inline_block"></br>
+<div align="center">
   <img aling="" alt="Html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img aling="" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img aling="" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img aling="" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    
-  
+  <img aling="" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img aling="" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img aling="" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img aling="" alt="Adroid" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img aling="" alt="React-Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
   <img aling="" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
   <img aling="" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
 </div>
@@ -41,7 +38,6 @@
 <br><br>
 
 ### <h2 align="center"> Stats 💻 </h2>
-
 
 <img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Mathvieira98&_icons=true&theme=cobalt"/>
 <img alt="top langs" align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathvieira98&layout=compact&_progress=true_icons=true&theme=cobalt"/>
