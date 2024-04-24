@@ -8,7 +8,7 @@
 
 > Meu objetivo profissional é me tornar um desenvolvedor full-stack em desenvolvimento mobile. Ao longo dessa jornada de estudos intensos desenvolvi projetos em Front-end, React Native, Swift e Java.
 
-> Hoje estou em busca da minha primeira oportunidade dentro da área, sou uma pessoa pro-ativa, criativa, comunicação clara, tennho espírito de liderança e adoro trabalhar em equipe, sempre busco soluções inteligentes que contribuam de forma positiva e impactante para o sucesso da empresa.
+> Hoje estou em busca da minha primeira oportunidade dentro da área, sou uma pesoa pró-ativa, criativa, comunicação clara, tennho espírito de liderança e adoro trabalhar em equipe, sempre busco soluções inteligentes que contribuam de forma positiva e impactante para o sucesso da empresa.
 
 🎓 2º Período - Analise e Desenvolvimento de Sistemas / Estácio.</br>
 💻 Meu propósito é resolver problemas, criar soluções e impactar vidas 🔥</br>
