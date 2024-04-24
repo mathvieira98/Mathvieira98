@@ -22,11 +22,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathvieiraa/) mathues99@hotmail.com 
 </div>
 
-
-
-
-
-### <h2 align="center">Linguagens e FrameWorks 🗣️💬</h2>
+<br>
+<h2 align="center">Linguagens e FrameWorks 🗣️💬</h2>
 
 <div style="display: inline_block"></br>
   <img aling="" alt="Html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -56,7 +53,8 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushcp&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"></a>
 </div>
 
-### <h2 align="center"> Repositórios 👨‍💻☁️</h2>
+<br>
+<h2 align="center"> Repositórios 👨‍💻☁️</h2>
 
 <div  align="center" width="100%">
   <a  href="https://github.com/mateushcp/Pokedex-iOS-project" title="Pokedex iOS Project">
