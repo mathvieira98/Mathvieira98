@@ -10,7 +10,7 @@
 
 > Hoje estou em busca da minha primeira oportunidade dentro da área, sou uma pessoa proativa, criativa, tenho uma comunicação clara e espírito de liderança além de adorar trabalhar em equipe, sempre busco soluções inteligentes que contribuam de forma positiva e impactante para o sucesso da empresa.
 
-🎓 2º Período - Analise e Desenvolvimento de Sistemas / Estácio.</br>
+🎓 3º Período - Analise e Desenvolvimento de Sistemas / Estácio.</br>
 🖥️ Meu propósito é resolver problemas, criar soluções e impactar vidas 🔥</br>
 📚 Atualmente, estou estudando React Native / Swift e sigo aprimorando minhas habilidades.
 </br>
