@@ -4,13 +4,13 @@
   </a>
 </h1>
 
-> Me chamo Matheus, tenho 25 anos moro em Curitiba-PR. Durante 3 anos atuei na área de contabilidade, no entanto no final do ano 2022 tomei a decisão ousada de trancar a faculdade de contabilidade e fazer uma transição de carreira para a área da tecnologia.
+> Me chamo Matheus, tenho 26 anos moro em Curitiba-PR. Durante 3 anos atuei na área de contabilidade, no entanto no final do ano 2022 tomei a decisão ousada de trancar a faculdade de contabilidade e fazer uma transição de carreira para a área da tecnologia.
 
 > Meu objetivo profissional é me tornar um desenvolvedor full-stack em desenvolvimento mobile. Ao longo dessa jornada de estudos intensos desenvolvi projetos em Front-end, React Native, Swift e Java.
 
 > Hoje estou em busca da minha primeira oportunidade dentro da área, sou uma pessoa proativa, criativa, tenho uma comunicação clara e espírito de liderança além de adorar trabalhar em equipe, sempre busco soluções inteligentes que contribuam de forma positiva e impactante para o sucesso da empresa.
 
-🎓 3º Período - Analise e Desenvolvimento de Sistemas / Estácio.</br>
+🎓 6º Período - Analise e Desenvolvimento de Sistemas / Estácio.</br>
 🖥️ Meu propósito é resolver problemas, criar soluções e impactar vidas 🔥</br>
 📚 Atualmente, estou estudando React Native / Swift e sigo aprimorando minhas habilidades.
 </br>
